@@ -77,3 +77,11 @@ Make sure that mode exists in your driver first.
 ## 🔗 See also
 
 - [model2-DS-launcher-esc-key](https://github.com/monster-javi/model2-DS-launcher-esc-key) — Sega Model 2 + DemulShooter launcher for Attract-Mode, from the same cabinet setup.
+
+---
+
+<p align="center">
+  If this helped your cabinet and you'd like to support the project, buy me a coffee! ☕
+  <br><br>
+  <a href="https://ko-fi.com/R6R51FQ52H"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi" height="36"></a>
+</p>
